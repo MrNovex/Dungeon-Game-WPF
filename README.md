@@ -160,7 +160,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-**Tim** - [@MrNovex](https://github.com/MrNovex)
+**Timo Fahrmer** - [@MrNovex](https://github.com/MrNovex)
 
 Project Link: [https://github.com/MrNovex/Dungeon-Game-WPF](https://github.com/MrNovex/Dungeon-Game-WPF)
 
